@@ -2,17 +2,22 @@ Hi, there:wave:
 
 I’m Chi Xu, a sophomore in Southern University of Science and Technology.
 
+[![Mail](https://img.shields.io/badge/-leemdragon233@gmail.com-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leemdragon233@gmail.com)](mailto:leemdragon233@gmail.com)
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+
+<img align='right' src='https://octodex.github.com/images/total-eclipse-of-the-octocat.jpg' width='200"'>
+
 Current Research: [Detecting webassembly VM vulnerability via fuzz testing]()
 
 Under the supervision of [Prof. Yepang Liu](https://yepangliu.github.io/)
 
-
+- 💬 More about me: [homepage](https://ERICXUCHI.github.io)(deploying)
+- ✨ Contributions: [飞跃手册](https://sustech-application.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ERICXUCHI&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ERICXUCHI&repo=Pac-Man)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERICXUCHI)](https://github.com/anuraghazra/github-readme-stats)
 
