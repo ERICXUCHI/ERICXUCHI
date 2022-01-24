@@ -14,6 +14,8 @@ Current Research: [Detecting webassembly VM vulnerability via fuzz testing]()
 
 Under the supervision of [Prof. Yepang Liu](https://yepangliu.github.io/)
 
+- 🔭 Software (backend) / hardware development
+- 😄 Fighting for opportunities
 - 💬 More about me: [homepage](https://ERICXUCHI.github.io)(deploying)
 - ✨ Contributions: [飞跃手册](https://sustech-application.com)
 
