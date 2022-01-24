@@ -2,9 +2,9 @@ Hi, there:wave:
 
 I’m Chi Xu, a sophomore in Southern University of Science and Technology.
 
-[![Mail](https://img.shields.io/badge/-xuc2019@mail.sustech.edu.cn.com-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xuc2019@mail.sustech.edu.cn@gmail.com)](mailto:xuc2019@mail.sustech.edu.cn.com)
-[![Mail](https://img.shields.io/badge/-exc1616@gmail.com-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:exc1616@gmail.com)](mailto:exc1616@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-critical?style=flat-square&logo=Telegram&logoColor=white&link=t.me/ERICBLACK0000)]
+[![Mail](https://img.shields.io/badge/-xuc2019@mail.sustech.edu.cn.com-critical?style=flat-square&logo=Gmail&logoColor=white)](mailto:xuc2019@mail.sustech.edu.cn.com)
+[![Mail](https://img.shields.io/badge/-exc1616@gmail.com-critical?style=flat-square&logo=Gmail&logoColor=white)](mailto:exc1616@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram?style=flat-square&logo=Telegram&logoColor=white)](t.me/ERICBLACK0000)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
