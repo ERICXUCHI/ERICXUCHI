@@ -2,7 +2,7 @@ Hi, there:wave:
 
 I’m Chi Xu, a sophomore in Southern University of Science and Technology.
 
-[![Mail](https://img.shields.io/badge/-leemdragon233@gmail.com-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leemdragon233@gmail.com)](mailto:leemdragon233@gmail.com)
+[![Mail](https://img.shields.io/badge/-exc1616@gmail.com-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:exc1616@gmail.com)](mailto:exc1616@gmail.com)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
