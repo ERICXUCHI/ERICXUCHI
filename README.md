@@ -10,9 +10,11 @@ I’m Chi Xu, a sophomore in Southern University of Science and Technology.
 
 <img align='right' src='https://octodex.github.com/images/total-eclipse-of-the-octocat.jpg' width='200"'>
 
-Current Research: [Detecting webassembly VM vulnerability via fuzz testing]()
+Last Research: Detecting webassembly VM vulnerability via fuzz testing Supervised By [Prof. Yepang Liu](https://yepangliu.github.io/)
 
-Under the supervision of [Prof. Yepang Liu](https://yepangliu.github.io/)
+Current Research: mmWave and Piezoelectric film in securety. Supervised By [Prof. Jin Zhang](https://faculty.sustech.edu.cn/zhangj4/)
+
+Under the supervision of [Prof. Jin Zhang](https://faculty.sustech.edu.cn/zhangj4/)
 
 - 🔭 Software (backend) / hardware development
 - 😄 Fighting for opportunities
