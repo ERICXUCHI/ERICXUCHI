@@ -1,6 +1,6 @@
 Hi, there:wave:
 
-I’m Chi Xu, a sophomore in Southern University of Science and Technology.
+I’m Chi Xu, a senior in Southern University of Science and Technology.
 
 [![Mail](https://img.shields.io/badge/-xuc2019@mail.sustech.edu.cn.com-critical?style=flat-square&logo=Gmail&logoColor=white)](mailto:xuc2019@mail.sustech.edu.cn.com)
 [![Mail](https://img.shields.io/badge/-exc1616@gmail.com-critical?style=flat-square&logo=Gmail&logoColor=white)](mailto:exc1616@gmail.com)
