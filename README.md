@@ -18,7 +18,7 @@ Under the supervision of [Prof. Jin Zhang](https://faculty.sustech.edu.cn/zhangj
 
 - 🔭 Software (backend) / hardware development
 - 😄 Fighting for opportunities
-- 💬 More about me: [homepage](https://ERICXUCHI.github.io)(deploying)
+- 💬 More about me: [homepage]()(deploying)
 - ✨ Contributions: [飞跃手册](https://sustech-application.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ERICXUCHI&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
