@@ -13,7 +13,7 @@ I’m Chi Xu, an incoming Ph.D. student major in Computer Science and Engineerin
 
 - 🔭 Software (backend) / hardware development
 - 😄 Fighting for opportunities
-- 💬 More about me: [homepage](ericxuchi.github.io)
+- 💬 More about me: [homepage](https://ericxuchi.github.io)
 
 [![Anurag's GitHub stats](https://github-readme-stats-lac-sigma-95.vercel.app/api?username=ERICXUCHI&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
