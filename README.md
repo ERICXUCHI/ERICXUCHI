@@ -2,7 +2,7 @@ Hi, there:wave:
 
 I’m Chi Xu, a Ph.D. student major in Computer Science and Engineering under the supervision of <a href="https://www.cse.ust.hk/~qianzh/" style="color: brown; text-decoration: underline">Prof. Qian Zhang</a>, in HKUST.
 
-[![Mail](https://img.shields.io/badge/-chi.xu@connect.ust.hk-critical?style=flat-square&logo=Gmail&logoColor=white)](mailto:cxubs@cse.ust.hk)
+[![Mail](https://img.shields.io/badge/-cxubs@cse.ust.hk-critical?style=flat-square&logo=Gmail&logoColor=white)](mailto:cxubs@cse.ust.hk)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FEricXuChi)](https://twitter.com/EricXuChi)
 [![Telegram](https://img.shields.io/badge/-Telegram-00ADD8?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ERICXUCHI)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
