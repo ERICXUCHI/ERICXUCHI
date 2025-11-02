@@ -18,8 +18,6 @@ I’m Chi Xu, a Ph.D. student major in Computer Science and Engineering under th
 
 [![Anurag's GitHub stats](https://github-readme-stats-lac-sigma-95.vercel.app/api?username=ERICXUCHI&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats-lac-sigma-95.vercel.app/api/pin/?username=ERICXUCHI&repo=Pac-Man)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats-lac-sigma-95.vercel.app/api/top-langs/?username=ERICXUCHI)](https://github.com/anuraghazra/github-readme-stats)
 
 
